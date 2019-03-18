@@ -52,24 +52,31 @@ experiences:
       time: April 2018 - Present
       company: EPAM Systems Inc, Saint-Petersburg
       details: |
+        - Maintained core legacy projects built with a variety of technologies including web services, continuously running processes, and batch processes.
+        - Implemented new features on back-end in a group of related REST web applications using Java8, Spring, Hibernate.
+        - Created unit and integration tests for new code using JUnit4, analyzed code coverage using JaCoCo.
+        - Analyzed and reported status of business requirements implementation using TFS project management tool.
+        - Participated in project coordination with USA development unit according to Agile/Scrum methodology.
+        
+        Tools&techs: Java8, Spring, Hibernate, Oracle SQL Developer, IBM WebSphere MQ, Tomcat, Potman, Ant, Ivy, TFS, Eclipse, JaCoCo.
 
     - role: Junior Software Engineer
       time: December 2017 - April 2018
       company: EPAM Systems Inc, Saint-Petersburg
       details: |
-      
         - Developed Spring Boot web application, using Spring Data, Gradle, Docker, MSSQL, Jenkins CI, GitLab flow, FlyWay DB migration. FE on ThymeLeaf, Knockout and JS/HTML.
         - Automated Linux workflows using bash scripting.
         - Have experience developing data access objects, services, servlets, java script pages, SQL response handlers and entities.
         - Installed PostgreSQL server, configured DB connection using JDBC connector with switching data source ability, using c3p0 connection pool.
         - Distributed the tasks across the team using Jira, Trello.
         - Participated in daily standups according to Scrum/Agile methodology.
+        
+        Tools&techs: Java8, Spring, Spring Data, MS SQL, Flyway, Tomcat, Gradle, Jenkins, Windows Server, GitLab, Jira, Confluence, Intellij IDEA, Docker
 
     - role: System administrator
       time: 2008 - May 2017
       company: Self-employed
       details: |
-
         - Administrated computer networks of small companies as individual entrepreneur.
         - Installed, configured and managed MS Windows systems, MS Office suites.
         - Selected and optimized hardware configurations for equipment purchase.
