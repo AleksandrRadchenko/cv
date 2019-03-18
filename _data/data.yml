@@ -57,8 +57,20 @@ experiences:
         - Created unit and integration tests for new code using JUnit4, analyzed code coverage using JaCoCo.
         - Analyzed and reported status of business requirements implementation using TFS project management tool.
         - Participated in project coordination with USA development unit according to Agile/Scrum methodology.
-        
-        Tools&techs: Java8, Spring, Hibernate, Oracle SQL Developer, IBM WebSphere MQ, Tomcat, Potman, Ant, Ivy, TFS, Eclipse, JaCoCo.
+      techs:
+        - name: Java8
+        - name: Spring
+        - name: Hibernate
+        - name: JUnit 4/5
+        - name: Oracle SQL Developer
+        - name: IBM WebSphere MQ
+        - name: Tomcat
+        - name: Potman
+        - name: Ant
+        - name: Ivy
+        - name: TFS
+        - name: Eclipse
+        - name: JaCoCo
 
     - role: Junior Software Engineer
       time: December 2017 - April 2018
@@ -70,8 +82,24 @@ experiences:
         - Installed PostgreSQL server, configured DB connection using JDBC connector with switching data source ability, using c3p0 connection pool.
         - Distributed the tasks across the team using Jira, Trello.
         - Participated in daily standups according to Scrum/Agile methodology.
-        
-        Tools&techs: Java8, Spring, Spring Data, MS SQL, Flyway, Tomcat, Gradle, Jenkins, Windows Server, GitLab, Jira, Confluence, Intellij IDEA, Docker
+      techs:
+        - name: Java8
+        - name: Spring Boot
+        - name: Spring Data
+        - name: MS SQL
+        - name: Flyway
+        - name: Tomcat
+        - name: Gradle
+        - name: Jenkins
+        - name: Log4j2
+        - name: Windows Server
+        - name: Git
+        - name: GitLab
+        - name: Jira
+        - name: Confluence
+        - name: Intellij IDEA
+        - name: Docker
+        - name: Lombok
 
     - role: System administrator
       time: 2008 - May 2017
@@ -83,34 +111,12 @@ experiences:
         - Remote system administrating using VPN and MS remote desktop.
 
 skills:
-    title: Skills
+    title: Additional skills
 
     toolset:
-      - name: Java
-      - name: JDBC
-      - name: Apache Tomcat
-      - name: Java Servlets
-      - name: SQL
-      - name: HTML
-      - name: Git
-      - name: Gradle
       - name: Maven
-      - name: Spring Framework
       - name: Bash
       - name: Linux
       - name: PostgreSQL
-      - name: JUnit
-      - name: SCALA
-      - name: SBT
       - name: VMware
-      - name: MS Office
-      - name: Scrum
-      - name: Agile Project Management
-      - name: VisualVM
-      - name: Intellij IDEA
-      - name: Atlassian Confluence
-      - name: Lombok
-      - name: Log4j2
-      - name: Jenkins
-      - name: Spring Boot
-      - name: Hibernate ORM
+      - name: VisualVM/MAT

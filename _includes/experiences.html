@@ -28,6 +28,14 @@
       {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
+	
+    {% if experience.techs %}
+    <div class="skillset">
+		{% for tech in experience.techs %}
+		  <span class="label label-primary">{{ tech.name }}</span>
+		{% endfor %}
+    </div><!--//techs-->
+    {% endif %}
 
   </div><!--//item-->
   {% endfor %}
