@@ -65,7 +65,7 @@ experiences:
         - name: Oracle SQL Developer
         - name: IBM WebSphere MQ
         - name: Tomcat
-        - name: Potman
+        - name: Postman
         - name: Ant
         - name: Ivy
         - name: TFS
